@@ -1,0 +1,7 @@
+{
+  "Records": [
+    {
+      "body": "{\"video_id\": \"79170c5d-26b9-45cc-80bd-2c9e613aae03\", \"s3_input_url\": \"https://videotranscoding.s3.amazonaws.com/79170c5d-26b9-45cc-80bd-2c9e613aae03_hdvideo.mp4\", \"input_format\": \"mp4\", \"output_format\": \"mp4\", \"video_quality\": \"720p\"}"
+    }
+  ]
+}
